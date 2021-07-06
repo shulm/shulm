@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Shulman
 - 👀 I'm interested in physics, mathematics and programming
-- 🌱 I'm currently study for PhD in chemical engineering in Ariel University, Israel
+- 🌱 I'm currently studying for Ph.D. in chemical engineering at Ariel University, Israel
 - 💞️ I’m looking to collaborate on magnetic susceptibility measurement by mosses effect
 - 📫 How to reach me davidshu@ariel.ac.il
 
