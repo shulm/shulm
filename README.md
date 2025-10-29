@@ -2,7 +2,7 @@
 - 👀 I'm interested in physics, mathematics and programming
 - 🌱 I'm currently studying for Ph.D. in chemical engineering at Ariel University, Israel
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me davidshu@ariel.ac.il
+- 📫 How to reach me dshulman@campus.haifa.ac.il
 
 <!---
 shulm/shulm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
